@@ -1,0 +1,7 @@
+User-Agent: *
+Disallow: /login
+
+Sitemap: https://obakaoyi.github.io/ZaM/sitemap_index.txt
+Sitemap: https://obakaoyi.github.io/iCp/sitemap_index.txt
+Sitemap: https://obakaoyi.github.io/pcC/sitemap_index.txt
+Sitemap: https://obakaoyi.github.io/pnM/sitemap_index.txt
